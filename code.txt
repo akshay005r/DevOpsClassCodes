@@ -1,1 +1,7 @@
 this is the new code added 
+We are getting Exception in connect : read time out Exceptions for Creadibanco processor on MS02 all app server.
+Transaction is getting declined with CBP~No Response from Processor.
+Telnet to processor URL is successful
+We are not seeing approvals for this TID.
+Start time- 03:38:38 EST
+Declines: 16
