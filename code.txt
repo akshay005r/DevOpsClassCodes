@@ -5,3 +5,4 @@ Telnet to processor URL is successful
 We are not seeing approvals for this TID.
 Start time- 03:38:38 EST
 Declines: 16
+we are updating the database changes to the code 
